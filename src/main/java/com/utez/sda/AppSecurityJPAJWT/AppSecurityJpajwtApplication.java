@@ -1,0 +1,13 @@
+package com.utez.sda.AppSecurityJPAJWT;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class AppSecurityJpajwtApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppSecurityJpajwtApplication.class, args);
+	}
+
+}
